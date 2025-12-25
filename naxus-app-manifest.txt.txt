@@ -1,0 +1,45 @@
+NAX STACK
+
+
+The architecture
+NODEOS (runtime / injector)
+
+ALLMIND (orchestration / extensions / hub)
+
+XENO (intent → imprint → exoprint logic core)
+
+NAX = the system law.
+Minimal. Deterministic. Non-negotiable.
+
+NAXUS
+The platform
+
+Streamable app layer
+App manifests
+Extension marketplace
+Hosted + local hybrid execution
+NAXUS is what people use and build on.
+Formerly VAPOR / NEXUS → NAXUS is the right convergence:
+Sounds infrastructural
+Neutral to AI hype
+Scales from apps → agents → machines
+
+NAXUS APPS
+The units
+Streamed skins
+Pure functions
+Reactor-resolved
+XENO-aligned
+
+Calculator
+Notes
+Agent Blackbox
+(DataDragon-powered by default)
+
+Cryptex JS
+The developer interface
+SDK for building NAXUS apps
+Manifest helpers
+XENO frame tooling
+Extension authoring
+Cryptex = how builders touch NAX without touching the core.
